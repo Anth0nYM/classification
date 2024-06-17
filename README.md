@@ -7,9 +7,6 @@ Classification ActivityActivity developed in the Intelligent Systems course duri
 The proposed activity is the analysis and classification of web pages for phishing and malicious activity detection. For this purpose, public datasets available [here](https://www.kaggle.com/datasets/danielfernandon/web-page-phishing-dataset/data) were used
 
 ### In the main notebook:
-* Custom KNN Classifier
-
-    We will implement a K-Nearest Neighbors (KNN) classification model from scratch, without relying on external libraries. This allows for a deeper understanding of the algorithm's inner workings.
 
 * Comparison with scikit-learn Classifiers
 
